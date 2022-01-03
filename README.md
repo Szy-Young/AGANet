@@ -6,7 +6,7 @@
 
 This is the code implementation for **AGANet**, an attention-guided deep convolutional network
 for skeleton-based action recognition, proposed by our paper "Attention-Oriented 
-Action Recognition for Real-Time Human-Robot Interaction" in [ICPR 2021](https://www.micc.unifi.it/icpr2020/).
+Action Recognition for Real-Time Human-Robot Interaction" in [ICPR 2020](https://www.micc.unifi.it/icpr2020/).
 
 <img src="AGANet.png" alt="drawing" width="600"/>
 
